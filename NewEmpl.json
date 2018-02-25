@@ -1,0 +1,13 @@
+[
+    {
+        "id": "'"$RANDOM"'",
+        "eventType": "recordInserted",
+        "subject": "NewEmployeeCreated",
+        "eventTime": "'`date +%Y-%m-%dT%H:%M:%S%z`'",
+        "data":{
+            "Name": "Antti Lassila",
+            "Email": "an.lass@outlook.com"
+        },
+        "dataVersion": "1.0"
+    }
+]
